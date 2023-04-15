@@ -4,3 +4,5 @@
 
 - [Уверены что понимаете как работает useLayoutEffect?](https://gist.github.com/kinda-neat/1d65872a5d2c2bf257bbc61c113039a7)
 - Планируется больше статей/заметок :)
+
+Уведомления о новых заметках/статьях [здесь](https://t.me/kinda_neat_sharing).
